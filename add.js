@@ -1,7 +1,6 @@
 function add(number1, number2) {
     const result = number1 + number2;
     return result;
-
 }
 const result1 = add(10, 20)
 console.log(result1);
